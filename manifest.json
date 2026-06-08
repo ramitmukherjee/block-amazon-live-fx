@@ -1,17 +1,17 @@
 {
   "manifest_version": 3,
-  "name": "block-amazon-live-fx-in",
+  "name": "Block Amazon Live - blocks Amazon Live ads from playing",
   "version": "1.0",
 
-  "description": "A lightweight extension that blocks the pesky amazon live videos that start playing in Amazon India websites.",
+  "description": "A lightweight extension that blocks the pesky amazon live videos that start playing in Amazon India websites (*.amazon.in/*).",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/block-amazon-live-fx-in-96.png"
   },
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "ramit.mkj6@gmail.com",
+      "id": "{8c3f2d61-6b4e-4f2a-9d7c-1a9f3e5b7c42}",
       "data_collection_permissions": {
         "required": ["none"]
       }
